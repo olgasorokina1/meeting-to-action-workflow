@@ -1,0 +1,49 @@
+meeting_id,task,owner,deadline,status,check,comment
+01,Send the February sales report,Nuria,Wednesday morning,ok,correct,
+01,Call technical service about the 2nd-floor printer,Raúl,Today,ok,correct,
+01,Get a new quote for the cleaning contract,Tomás,Friday,ok,correct,
+01,Renew the cleaning contract,Tomás,Day 31 (contract expiry),ok,extra,"Context, not a promised action (ground truth uses the quote task)"
+01,Discuss the office move,unclear,April meeting,needs review,extra,Postponed item listed as a task
+02,Check volume discount and reply to Irene,Marcos,Before Friday 13 March,ok,correct,
+02,Ask Ofimarket for a quote,Irene,17 March,ok,correct,
+02,Send the updated catalogue as a PDF,Marcos,Mañana (11 March),ok,correct,
+03,Look for restaurants and bring three options,Óscar,Monday 9,ok,correct,
+03,Ask about allergies and special menus,Irene,This week,ok,correct,
+04,Call clients who haven't sent their invoices,unclear,unclear,needs review,wrong_deadline,Ground truth: 'pronto'; AI treats vague deadline as unclear
+04,Review / update the reminder template,Silvia,Before Monday 6 April,ok,correct,
+04,Prepare the list of clients with pending documentation,Daniel,Tomorrow,ok,correct,
+04,Look into the new invoicing software,unclear,unclear,needs review,correct,
+05,Prepare the summer sale discount proposal,Paula,15 May,ok,correct,
+05,Order the new shop window posters,Irene,25 June,ok,correct,
+05,Organize till software training session,Óscar,Thursday 14 May,ok,correct,
+06,Send the employee list in Excel to Laura,Irene,Thursday 10,ok,correct,
+06,Give the staff an online training session,Laura,unclear,needs review,correct,
+06,Sign and return the contract,Sergio,Before Friday 11,ok,correct,
+06,Check whether remote employees' phones are compatible,unclear,unclear,needs review,correct,
+06,Send the list of compatible phone models,Laura,Today,ok,correct,
+07,Send a payment reminder to the three clients,Nuria,Today,ok,correct,
+07,Phone the three clients if still unpaid,Tomás,30 January,ok,correct,
+07,Prepare the 2025 expense summary,Tomás,20 January,ok,correct,
+08,Request a quote from the printer for the brochures,unclear,This week,needs review,correct,
+08,Book two hotel rooms for the night of 17 June,Nuria,Before 20 May,ok,correct,
+08,Decide how to transport the material,unclear,unclear,needs review,wrong_deadline,Ground truth: 'cuanto antes'; AI treats vague deadline as unclear
+08,Prepare the presentation for the stand screen,Raúl,10 June,ok,correct,
+08,Decide whether to hold a prize draw,unclear,unclear,needs review,extra,"Postponed to next meeting, not a task"
+09,Write and send the 'Quiénes somos' texts,Óscar,Wednesday 11 February,ok,correct,
+09,Ask Paula for the team photos,Sergio,Today,ok,extra,One task split into two rows
+09,Forward the team photos to Marta,Sergio,Monday 9 February,ok,correct,
+09,Deliver the test version of the website,Marta,20 February,ok,correct,
+10,Notify clients about the quarterly tax return,unclear,unclear,needs review,wrong_deadline,Ground truth: 'la semana que viene'; AI treats a suggestion as no deadline
+10,Create portal access for two new clients,Daniel,Mañana (4 June),ok,correct,
+10,Sort out August vacations and report back,"Silvia, Rosa",unclear,needs review,correct,
+10,Renew the digital certificate,Daniel,Before 20 June,ok,correct,
+11,Send the current contract to Tomás,Andrés,Wednesday 21,ok,correct,
+11,Review the cancellation terms in the contract,Tomás,unclear,needs review,extra,"Reason for the request, not a separate task"
+11,Talk to his team about the uncleaned meeting room,Andrés,Today,ok,correct,
+11,Send Andrés the December office schedule,Tomás,Before 15 November,ok,correct,
+11,Decide on going from 3 to 5 cleaning days,Elena,unclear,needs review,extra,"Undecided item, excluded from ground truth"
+12,Prepare the trial class schedule,Pablo,Friday 11,ok,correct,
+12,Announce the open day on social media,Lucía,unclear,needs review,wrong_deadline,"Ground truth: 'lunes 7'; AI read it as a start date, not a deadline"
+12,Make posters for the entrance,unclear,unclear,needs review,correct,
+12,Buy food and drinks,unclear,unclear,needs review,extra,Postponed item listed as a task
+12,Confirm the street poster permit with the town hall,Carmen V.,This week,ok,correct,

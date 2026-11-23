@@ -1,0 +1,11 @@
+Reunión con el proveedor de software — control horario
+Fecha: 8 de septiembre
+Asistentes: Sergio, Irene, Laura (proveedor)
+
+Laura: La instalación se puede hacer en una mañana. Necesito la lista de empleados en Excel.
+Irene: Te la envío el jueves 10.
+Sergio: ¿Quién forma al personal?
+Laura: Nosotros damos una sesión online. La fecha la podemos ver más adelante.
+Sergio: Vale, ya lo hablaremos. Sobre el contrato: lo firmo y lo devuelvo antes del viernes 11.
+Irene: Los empleados que trabajan fuera necesitan la aplicación móvil. Alguien tendría que comprobar si sus teléfonos son compatibles.
+Laura: Os mando la lista de modelos compatibles hoy mismo.
